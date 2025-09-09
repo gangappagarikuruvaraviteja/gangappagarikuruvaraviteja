@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raviteja  
 
 🎓 3rd Year CSE (AI & ML) Student @ Karunya University  
-💻 Passionate about Web Development, AI, and Machine Learning  
+💻 Passionate about Full Stack Development, AI, and Machine Learning  
 🚀 Currently building projects with **React**
 
 ---
